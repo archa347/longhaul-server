@@ -1,0 +1,25 @@
+{
+  "name": "longhaul-server",
+  "version": "1.0.0",
+  "description": "A WS session store frontend for better session data storage systems like Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archa347/longhaul-server.git"
+  },
+  "author": "daniel.r.gallegos@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archa347/longhaul-server/issues"
+  },
+  "homepage": "https://github.com/archa347/longhaul-server#readme",
+  "dependencies": {
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
